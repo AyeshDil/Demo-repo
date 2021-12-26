@@ -6,4 +6,6 @@ sample text.
 
 sub text samples heare.
 
-after
+## Local Development
+
+1. check the readme.md file
